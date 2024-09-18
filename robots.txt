@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /scripts/
+Disallow: /private/
+
+Sitemap: https://jdfundacoes.com.br/sitemap.xml
+
